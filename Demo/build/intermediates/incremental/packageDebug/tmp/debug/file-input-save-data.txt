@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sun Jun 21 14:56:58 CST 2020
+1.base=/Users/zhangmeng/sdk/Demo/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+2.path=gdt_plugin/gdtadv2.jar
+0.baseType=DIRECTORY
+2.base=/Users/zhangmeng/sdk/Demo/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=/Users/zhangmeng/sdk/Demo/build/intermediates/transforms/dexMerger/debug/0
+2.baseType=DIRECTORY
+1.path=mintegral_jscommon_authtext.html

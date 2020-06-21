@@ -1,0 +1,4 @@
+#Sun Jun 21 14:56:57 CST 2020
+base.0=/Users/zhangmeng/sdk/Demo/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
